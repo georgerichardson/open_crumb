@@ -1,10 +1,10 @@
 # Open Crumb
-The open source bread project.
+The open source bread project for scientific bakers.
 
 ## What is this?
 Open Crumb is a project to collect and analyse information about bread baking from all over the world, with particular emphasis on those using natural yeasts (sourdough).
 
-Users can start to record their baking recipes, results, yeast cultures and flours to contribute to the project and keep track of their own baking.
+Users can record their baking recipes, results, yeast cultures and flours to contribute to the project and keep track of their own baking.
 
 There are a whole bunch of different factors that affect how a loaf of bread turns out. By collecting this information and making it open, the tech-minded baking community can use methods like machine learning and visualisations to understand what role these influences play.
 
