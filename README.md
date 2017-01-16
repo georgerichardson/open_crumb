@@ -12,19 +12,19 @@ There are a whole bunch of different factors that affect how a loaf of bread tur
 
 We are currently using RowShare as a user friendly way for contributors to make records. The first step is to [sign up for an account](www.rowshare.com). The next thing you'll probably want to do is create entries for the starters and flours you use.
 
-### Add a Starter (yeast cultures)
+### 1. Add a Starter (yeast cultures)
 
 Add a new starter by filling out [this form](https://www.rowshare.com/tf/468aa303cd8641628b7d01f72c617bd2/(new)). If you're not already a member of the project, you'll need to request access and wait until you're approved.
 
 Once you've submitted a starter, you'll be able to refer to it in your recipes, saving you having to fill out the same details every time. Only you will be able to view and edit your starters.
 
-### Check out the Flours
+### 2. Check out the Flours
 
 Have a look at the flours [here](https://www.rowshare.com/t/0388a6fc4b38419aa98275f5e77b7c52) (access request may be needed again). Don't see the ones you use? Feel free to start adding them in. Once they're in the database, you'll be able to select them for your recipes. Anyone can access all of the flours.
 
 **Make sure to check if the flour you want to use already exists. We are trying to avoid duplicates!**
 
-### Record a Bake
+### 3. Record a Bake
 To record a full bake (from levain to loaf) you'll need a few pieces of equipment:
 
 - Air thermometer
