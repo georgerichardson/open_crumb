@@ -27,8 +27,7 @@ Have a look at the flours [here](https://www.rowshare.com/t/0388a6fc4b38419aa982
 ### 3. Record a Bake
 To record a full bake (from levain to loaf) you'll need a few pieces of equipment:
 
-- Air thermometer
-- Water thermometer
+- Thermometer (preferably one that can measure air and water temperature)
 - Digital camera (a good phone will do)
 - A white or black background for taking a picture of your bread on
 - Oven thermometer (optional)
