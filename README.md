@@ -10,7 +10,9 @@ There are a whole bunch of different factors that affect how a loaf of bread tur
 
 ## How to contribute
 
-We are currently using RowShare as a user friendly way for contributors to make records. The first step is to [sign up for an account](www.rowshare.com). Then you'll need to ping me at g.raymond.richardson [at] gmail.com for an invite to the project. Once I've run a full background check on you, hired a private detective to investigate your connections and have your credit history you'll be ready to go. Next up, you'll probably want to create entries for the starters and flours you use!
+1. We are currently using RowShare as a user friendly way for contributors to make records. The first step is to [sign up for an account](https://www.rowshare.com). 
+2. Then you'll need to ping me at g.raymond.richardson [at] gmail.com for an invite to the project. Once I've run a full background check on you, hired a private detective to investigate your connections and have your credit history you'll be ready to go.
+3. Next up, you'll probably want to create entries for the starters and flours you use!
 
 ### 1. Add a Starter (yeast cultures)
 
